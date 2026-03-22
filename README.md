@@ -1,6 +1,6 @@
-# 📈 Trader Behavior Analytics Using Market Sentiment
+# Trader Behavior Analytics Using Market Sentiment
 
-## 🔍 Problem Statement
+##  Problem Statement
 
 Financial markets are heavily influenced by **investor sentiment**, often driving irrational decisions such as over-leveraging during bullish phases or panic selling during downturns.
 
@@ -10,7 +10,7 @@ This project aims to answer:
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Analyze the effect of sentiment on **trader profitability (PnL)**
 * Understand how sentiment influences **risk-taking behavior (leverage & position size)**
@@ -19,7 +19,7 @@ This project aims to answer:
 
 ---
 
-## 📊 Data Sources
+## Data Sources
 
 ### 1. Market Sentiment Dataset
 
@@ -37,25 +37,25 @@ This project aims to answer:
 
 ---
 
-## ⚙️ Approach
+##  Approach
 
-### 🧹 Data Preparation
+###  Data Preparation
 
 * Standardized datetime formats
 * Removed incomplete records
 * Created unified date field for merging
 
-### 🔗 Data Integration
+###  Data Integration
 
 * Combined sentiment and trading datasets on date
 
-### 🧠 Feature Engineering
+### Feature Engineering
 
 * Profit classification (profit vs loss)
 * Trade size segmentation (Small / Medium / Large)
 * Sentiment labeling for each trade
 
-### 📉 Analysis Performed
+### Analysis Performed
 
 * PnL distribution across sentiment states
 * Win rate comparison
@@ -65,7 +65,7 @@ This project aims to answer:
 
 ---
 
-## 📌 Key Findings
+##  Key Findings
 
 * **Fear markets** exhibit more stable and controlled trading behavior
 * **Greed markets** lead to aggressive strategies with higher leverage
@@ -74,17 +74,17 @@ This project aims to answer:
 
 ---
 
-## 🧠 Behavioral Interpretation
+##  Behavioral Interpretation
 
 This analysis reveals classic behavioral finance patterns:
 
-* ⚠️ **Overconfidence Bias** during Greed → excessive risk-taking
-* 😨 **Loss Aversion & Caution** during Fear → disciplined trading
-* 🔄 Sentiment-driven decision-making overrides rational strategies
+*  **Overconfidence Bias** during Greed → excessive risk-taking
+*  **Loss Aversion & Caution** during Fear → disciplined trading
+*  Sentiment-driven decision-making overrides rational strategies
 
 ---
 
-## 💡 Strategic Insights
+##  Strategic Insights
 
 * Incorporating sentiment signals can **enhance risk management frameworks**
 * Adaptive leverage strategies based on sentiment can improve outcomes
@@ -92,7 +92,7 @@ This analysis reveals classic behavioral finance patterns:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * Python (Pandas, NumPy)
 * Data Visualization (Matplotlib, Seaborn)
@@ -100,7 +100,7 @@ This analysis reveals classic behavioral finance patterns:
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```bash id="0zts6k"
 Trader-Behavior-Insights/
@@ -110,7 +110,7 @@ Trader-Behavior-Insights/
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 The study highlights that **market sentiment is a powerful driver of trader behavior**.
 
@@ -122,7 +122,7 @@ By aligning trading strategies with sentiment indicators, traders can:
 
 ---
 
-## 👤 Author
+##  Author
 
 **Jigyasa Awasthi**
 Aspiring Data Scientist | Machine Learning Enthusiast
@@ -131,6 +131,6 @@ Aspiring Data Scientist | Machine Learning Enthusiast
 
 ---
 
-## ✨ Final Note
+##  Final Note
 
 This project demonstrates the ability to combine **data analysis, behavioral understanding, and business insight** — key skills required for modern data-driven trading systems.
