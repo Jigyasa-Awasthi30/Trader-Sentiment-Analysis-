@@ -134,3 +134,26 @@ Aspiring Data Scientist | Machine Learning Enthusiast
 ##  Final Note
 
 This project demonstrates the ability to combine **data analysis, behavioral understanding, and business insight** — key skills required for modern data-driven trading systems.
+
+## Recruiter Note
+
+This project goes beyond standard data analysis by connecting **market sentiment with real trader behavior**, uncovering actionable insights that are directly applicable to trading platforms and financial decision-making systems.
+
+What makes this work valuable:
+
+* **Business Impact Focused**: Instead of just analyzing data, the project translates findings into **practical trading strategies** like adaptive leverage and sentiment-aware risk control.
+* **Behavioral Intelligence**: Demonstrates a strong understanding of **behavioral finance concepts** (overconfidence, loss aversion) and how they manifest in real-world trading data.
+* **End-to-End Ownership**: Covers the complete pipeline — from data cleaning and feature engineering to insight generation and strategic recommendations.
+* **Scalable Thinking**: The approach can be extended to **real-time sentiment tracking systems, algorithmic trading models, or risk engines**.
+* **Strong Analytical Foundation**: Uses structured analysis (PnL distribution, correlation, segmentation) to support conclusions with data.
+
+This project reflects my ability to:
+
+* Work with **complex datasets**
+* Extract **meaningful, decision-driven insights**
+* Bridge the gap between **data science and real-world applications**
+
+I am particularly interested in roles where I can contribute to **data-driven decision-making, fintech innovation, or machine learning-based systems**.
+
+I would love the opportunity to bring this analytical and problem-solving mindset to your team.
+
